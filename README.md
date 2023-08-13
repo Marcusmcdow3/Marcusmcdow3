@@ -5,8 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]https://github.com/Marcusmcdow3/Osticket-prereqs/blob/main/README.me
   - [osTicket: Ticket Lifecycle Examples]https://github.com/Marcusmcdow3/Osticketlifecycle/blob/main/README.md
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]https://github.com/Marcusmcdow3/Marcusmcdow3/
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]https://github.com/Marcusmcdow3/Marcusmcdow3
+  
 <h2>🤳🏿Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/marcus-mcdow-190209173
